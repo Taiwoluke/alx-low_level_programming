@@ -3,6 +3,7 @@
 	 * main - print _putchar
 	 * is written by mbah
 	 * Return: 0
+	 * Description: This file prints putchar
 	 */
 
 
