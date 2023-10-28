@@ -1,10 +1,17 @@
+
+#include <stdio.h>
+		
+#include "main.h"
+		
+
+		
 /**
 		
- * main – outputs the program name
+ * main - prints the name of the program
 		
- * @argc: refers to how many arguments are in the command line
+ * @argc: number of arguments
 		
- * @argv: refers to the actual arguments in the command line
+ * @argv: array of arguments
 		
  *
 		
